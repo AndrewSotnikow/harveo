@@ -45,6 +45,9 @@ const feedbackStyles = {
     commentGridItem:{
         width: "100%",
     },
+    space: {
+        marginTop: "30px",
+    },
     ...imagesStyles,
     ...typographyStyle,
 };

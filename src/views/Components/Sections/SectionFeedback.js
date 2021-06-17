@@ -7,6 +7,7 @@ import styles
 import Card from "../../../components/Card/Card";
 import Carousel from "react-slick";
 import CommentCard from "../../Components/elements/commentCard.js";
+import Button from "../../../components/CustomButtons/Button";
 
 export default function SectionFeedback() {
     const useStyles = makeStyles(styles);
@@ -117,7 +118,14 @@ export default function SectionFeedback() {
                             </Carousel>
                         </Card>
                     </GridItem>
+                    <GridItem xs={12} sm={12} md={12} lg={12}>
+                        <GridItem xs={12} container align="left" justify="center">
+                            <Button color="primary" align={"center"} className={classes.space} round><span >Contact us</span>
+                            </Button>
+                        </GridItem>
+                    </GridItem>
                 </GridContainer>
+
             </div>
         </div>
     )
