@@ -10,7 +10,7 @@ This is a landing page for Harveo company, created with React and Material UI.
 * [Status](#status) 
 
 ## Screenshots
-![screenshot](https://github.com/AndrewSotnikow/SarigatoExpandVideo/blob/main/media/gif.gif)
+![screenshot](https://github.com/AndrewSotnikow/harveo/blob/main/src/assets/img/screenshot.jpg)
 
 ## Technologies
 * React
