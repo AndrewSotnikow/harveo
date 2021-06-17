@@ -43,7 +43,6 @@ export default function Components(props) {
         {...rest}
       />
         <Parallax image={require("assets/img/bg11.jpg").default}>
-            <div className={classes.blureStyle}></div>
             <div className={classes.container}>
                 <GridContainer>
                     <GridItem>
